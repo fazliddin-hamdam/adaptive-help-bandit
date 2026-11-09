@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Betiklerin urettigi ciktilar
+results/
+
+# Sistem / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
